@@ -1,8 +1,7 @@
 === AffiliateWP - WooCommerce Redirect Affiliates ===
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EFUPMPEZPGW7L
 Tags: AffiliateWP, affiliate, Pippin Williamson, Andrew Munro, mordauk, pippinsplugins, sumobi, woocommerce, ecommerce, e-commerce, e commerce, selling, membership
 Requires at least: 3.8
-Tested up to: 3.9.1
+Tested up to: 4.7
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
