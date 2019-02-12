@@ -1,8 +1,8 @@
 === AffiliateWP - WooCommerce Redirect Affiliates ===
 Tags: AffiliateWP, affiliate, Pippin Williamson, Andrew Munro, mordauk, pippinsplugins, sumobi, woocommerce, ecommerce, e-commerce, e commerce, selling, membership
 Requires at least: 3.8
-Tested up to: 4.7
-Stable tag: 1.0
+Tested up to: 5.0.3
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Contributors: sumobi, mordauk
