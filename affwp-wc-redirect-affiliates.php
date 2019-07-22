@@ -4,8 +4,8 @@ Plugin Name: AffiliateWP - WooCommerce Redirect Affiliates
 Plugin URI: https://affiliatewp.com
 Description: Redirect affiliates to their affiliate area when they login via WooCommerce's /my-account page
 Version: 1.0
-Author: AffiliateWP
-Author URI: https://affiliatewp.com
+ * Author: Sandhills Development, LLC
+ * Author URI: https://sandhillsdev.com
 License: GPL-2.0+
 License URI: http://www.opensource.org/licenses/gpl-license.php
 */
