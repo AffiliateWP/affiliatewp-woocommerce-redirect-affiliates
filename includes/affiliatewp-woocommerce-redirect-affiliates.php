@@ -1,14 +1,14 @@
 <?php
-/*
- * Plugin Name: AffiliateWP - WooCommerce Redirect Affiliates
- * Plugin URI: https://affiliatewp.com/add-ons/official-free/woocommerce-redirect-affiliates/
- * Description: Redirect affiliates to their affiliate area when they login via WooCommerce's /my-account page
- * Version: 1.0
- * Author: Sandhills Development, LLC
- * Author URI: https://sandhillsdev.com
- * License: GPL-2.0+
- * License URI: http://www.opensource.org/licenses/gpl-license.php
-*/
+/**
+ * Core: Plugin Bootstrap
+ *
+ * @package     AffiliateWP WooCommerce Redirect Affiliates
+ * @subpackage  Core
+ * @copyright   Copyright (c) 2021, Sandhills Development, LLC
+ * @license     http://opensource.org/licenses/gpl-2.0.php GNU Public License
+ * @since       1.1
+ */
+
 function affwp_wc_redirect_affiliates( $redirect, $user ) {
 	$user_id = $user->ID;
 
