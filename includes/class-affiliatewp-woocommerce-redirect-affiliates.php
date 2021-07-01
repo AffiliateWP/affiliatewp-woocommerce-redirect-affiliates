@@ -47,7 +47,7 @@ if ( ! class_exists( 'AffiliateWP_WooCommerce_Redirect_Affiliates' ) ) {
 		 * @since 1.1
 		 * @var   string
 		 */
-		private $version = '1.0.2';
+		private $version = '1.1';
 
 		/**
 		 * Generates the main bootstrap instance.

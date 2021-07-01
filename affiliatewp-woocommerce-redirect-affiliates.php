@@ -5,7 +5,7 @@
  * Description: Redirect affiliates to their affiliate area when they login via WooCommerce's /my-account page
  * Author: Sandhills Development, LLC
  * Author URI: https://sandhillsdev.com
- * Version: 1.0
+ * Version: 1.1
  * Text Domain: affiliatewp-woocommerce-redirect-affiliates
  *
  * AffiliateWP is distributed under the terms of the GNU General Public License as published by
@@ -22,7 +22,7 @@
  *
  * @package AffiliateWP WooCommerce Redirect Affiliates
  * @category Core
- * @version 1.0
+ * @version 1.1
  */
 
 // Exit if accessed directly
