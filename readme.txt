@@ -1,9 +1,9 @@
 === AffiliateWP - WooCommerce Redirect Affiliates ===
 Tags: AffiliateWP, affiliate, Pippin Williamson, Andrew Munro, mordauk, pippinsplugins, sumobi, woocommerce, ecommerce, e-commerce, e commerce, selling, membership
-Requires at least: 3.8
-Tested up to: 5.5
-Requires PHP: 5.3
-Stable tag: 1.0.1
+Requires at least: 5.0
+Tested up to: 5.7
+Requires PHP: 5.6
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Contributors: sumobi, mordauk
@@ -12,7 +12,7 @@ Redirect affiliates to their affiliate area when they login via WooCommerce's /m
 
 == Description ==
 
-This plugin requires both [AffiliateWP](http://affiliatewp.com/ "AffiliateWP") & [WooCommerce](http://wordpress.org/plugins/woocommerce/ "WooCommerce"). <strong>It will NOT function without them.</strong>
+This plugin requires both [AffiliateWP](http://affiliatewp.com/ "AffiliateWP") v2.6+ & [WooCommerce](http://wordpress.org/plugins/woocommerce/ "WooCommerce"). <strong>It will NOT function without them.</strong>
 
 Once installed and activated, your Affiliates will be redirected to their affiliate area, rather than the /my-account page that WooCommerce provides.
 
@@ -38,6 +38,13 @@ OR you can just install it with WordPress by going to Plugins >> Add New >> and 
 == Upgrade Notice ==
 
 == Changelog ==
+
+= 1.1 =
+* New: Enforce minimum dependency requirements checking
+* New: Requires PHP 5.6 minimum
+* New: Requires WordPress 5.0 minimum
+* New: Requires AffiliateWP 2.6 minimum
+* Improved: Tested up to WordPress 5.7
 
 = 1.0 =
 * Initial release
